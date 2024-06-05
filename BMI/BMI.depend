@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676890509 source:c:\users\219-2\desktop\codeblocks_szkolenie_uz\bmi\main.c
+	<stdio.h>
+	<stdlib.h>
+
